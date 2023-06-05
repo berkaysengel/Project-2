@@ -1,0 +1,185 @@
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.csproj.AssemblyReference.cache
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.AssemblyInfoInputs.cache
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.AssemblyInfo.cs
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.csproj.CoreCompileInputs.cache
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.MvcApplicationPartsAssemblyInfo.cache
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.RazorAssemblyInfo.cache
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.RazorAssemblyInfo.cs
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\appsettings.Development.json
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\appsettings.json
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\AzureVision.staticwebassets.runtime.json
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\AzureVision.exe
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\AzureVision.deps.json
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\AzureVision.runtimeconfig.json
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\AzureVision.dll
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\ref\AzureVision.dll
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\AzureVision.pdb
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\BlazorInputFile.dll
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\scopedcss\bundle\AzureVision.styles.css
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\scopedcss\projectbundle\AzureVision.bundle.scp.css
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.csproj.CopyComplete
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.dll
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\ref\AzureVision.dll
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.pdb
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.genruntimeconfig.cache
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\My Desk\Projects\Practice\AzureVision\AzureVision\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\bin\Debug\net6.0\AzureVision.staticwebassets.runtime.json
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\bin\Debug\net6.0\AzureVision.exe
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\bin\Debug\net6.0\AzureVision.deps.json
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\bin\Debug\net6.0\AzureVision.runtimeconfig.json
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\bin\Debug\net6.0\AzureVision.dll
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\bin\Debug\net6.0\AzureVision.pdb
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\bin\Debug\net6.0\BlazorInputFile.dll
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\AzureVision.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\AzureVision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\AzureVision.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\AzureVision.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\AzureVision.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\AzureVision.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\AzureVision.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\AzureVision.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.AzureVision.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.build.AzureVision.props
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AzureVision.props
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AzureVision.props
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\scopedcss\bundle\AzureVision.styles.css
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\scopedcss\projectbundle\AzureVision.bundle.scp.css
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\AzureVision.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\AzureVision.dll
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\refint\AzureVision.dll
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\AzureVision.pdb
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\AzureVision.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\AzureVision - Image to Text\AzureVision\obj\Debug\net6.0\ref\AzureVision.dll
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\bin\Debug\net6.0\AzureVision.staticwebassets.runtime.json
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\bin\Debug\net6.0\AzureVision.exe
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\bin\Debug\net6.0\AzureVision.deps.json
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\bin\Debug\net6.0\AzureVision.runtimeconfig.json
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\bin\Debug\net6.0\AzureVision.dll
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\bin\Debug\net6.0\AzureVision.pdb
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\bin\Debug\net6.0\BlazorInputFile.dll
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.AzureVision.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.build.AzureVision.props
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AzureVision.props
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AzureVision.props
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\scopedcss\bundle\AzureVision.styles.css
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\scopedcss\projectbundle\AzureVision.bundle.scp.css
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.dll
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\refint\AzureVision.dll
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.pdb
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\AzureVision.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\AzureVision\AzureVision\obj\Debug\net6.0\ref\AzureVision.dll
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\bin\Debug\net6.0\AzureVision.staticwebassets.runtime.json
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\bin\Debug\net6.0\AzureVision.exe
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\bin\Debug\net6.0\AzureVision.deps.json
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\bin\Debug\net6.0\AzureVision.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\bin\Debug\net6.0\AzureVision.dll
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\bin\Debug\net6.0\AzureVision.pdb
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\bin\Debug\net6.0\BlazorInputFile.dll
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.AzureVision.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.build.AzureVision.props
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AzureVision.props
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AzureVision.props
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\scopedcss\bundle\AzureVision.styles.css
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\scopedcss\projectbundle\AzureVision.bundle.scp.css
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.dll
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\refint\AzureVision.dll
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.pdb
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Project-2\AzureVision\obj\Debug\net6.0\ref\AzureVision.dll
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\bin\Debug\net6.0\AzureVision.staticwebassets.runtime.json
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\bin\Debug\net6.0\AzureVision.exe
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\bin\Debug\net6.0\AzureVision.deps.json
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\bin\Debug\net6.0\AzureVision.runtimeconfig.json
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\bin\Debug\net6.0\AzureVision.dll
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\bin\Debug\net6.0\AzureVision.pdb
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\bin\Debug\net6.0\BlazorInputFile.dll
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.AzureVision.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.build.AzureVision.props
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AzureVision.props
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AzureVision.props
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\scopedcss\bundle\AzureVision.styles.css
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\scopedcss\projectbundle\AzureVision.bundle.scp.css
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.dll
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\refint\AzureVision.dll
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.pdb
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\AzureVision.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\DP\Project-2\AzureVision\obj\Debug\net6.0\ref\AzureVision.dll

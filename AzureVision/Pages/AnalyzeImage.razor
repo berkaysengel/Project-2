@@ -1,0 +1,101 @@
+﻿@page "/AnalyzeImage"
+
+@using Microsoft.Azure.CognitiveServices.Vision.ComputerVision;
+@using Microsoft.Azure.CognitiveServices.Vision.ComputerVision.Models;
+
+@using BlazorInputFile
+@using AzureVision.Data
+@using AzureVision.Services
+
+@using System.Net.Http.Headers
+@using Newtonsoft.Json
+@using Newtonsoft.Json.Linq
+@inject IFileUpload fileupload
+@inject IJSRuntime JSR
+
+
+
+
+<BlazorInputFile.InputFile OnChange="SelectFile"></BlazorInputFile.InputFile>
+
+<div id="MessageBox">
+
+</div>
+<hr />
+
+@if(imagevalue!=null)
+{
+    <p>@imagevalue</p>
+    imagevalue = "";
+}
+
+@if (imagevalue == null)
+{
+    <p></p>
+}
+
+
+
+@code {
+    string imagevalue;
+
+
+    static string subscriptionKey = "4f013713e2d84daab7d9e72f4f876aea";
+    static string endpoint = "https://opticalcharacterrecognizer.cognitiveservices.azure.com/";
+    static string uriBase = endpoint + "vision/v3.1/analyze";
+
+    async Task SelectFile(IFileListEntry[]  files)
+    {
+        var file = files.FirstOrDefault();
+        if(file!=null)
+        {
+            await fileupload.UploadFile(file);
+            //await JSR.InvokeVoidAsync("ShowMessageFile",file.Name,file.RelativePath,file.Type);
+
+            string FilePath = "C:\\Users\\Lenovo\\Desktop\\Project-2\\AzureVision\\Images\\" + file.Name;
+
+            try
+            {
+                HttpClient client = new HttpClient();
+
+                client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", subscriptionKey);
+                //string requestParameters ="visualFeatures=Categories,Description,Color";
+                string requestParameters ="visualFeatures=Categories,Description,Color";
+                string uri = uriBase + "?" + requestParameters;
+
+                HttpResponseMessage response;
+
+                byte[] byteData = GetImageAsByteArray(FilePath);
+                using (ByteArrayContent content = new ByteArrayContent(byteData))
+                {
+                    content.Headers.ContentType =new MediaTypeHeaderValue("application/octet-stream");
+
+                    response = await client.PostAsync(uri, content);
+                }
+                string contentString = await response.Content.ReadAsStringAsync();
+
+                var result = JsonConvert.DeserializeObject<Root>(contentString);
+
+                imagevalue = JToken.Parse(contentString).ToString();
+            }
+            catch(Exception ex)
+            {
+                imagevalue = ex.ToString();
+            }
+
+        }
+    }
+
+
+    static byte[] GetImageAsByteArray(string imageFilePath)
+    {
+            // Open a read-only file stream for the specified file.
+            using (FileStream fileStream =
+                new FileStream(imageFilePath, FileMode.Open, FileAccess.Read))
+            {
+                // Read the file's contents into a byte array.
+                BinaryReader binaryReader = new BinaryReader(fileStream);
+                return binaryReader.ReadBytes((int)fileStream.Length);
+            }
+        }
+}
